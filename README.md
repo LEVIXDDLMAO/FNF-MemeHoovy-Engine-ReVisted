@@ -1,10 +1,6 @@
-# Friday Night Funkin' - MemeHoovy Engine
+# Friday Night Funkin' - MemeHoovy Engine ReVisted
 
-I have an engine based off myself now, watch me fail.
 
- ̶N̶o̶,̶ ̶i̶t̶'̶s̶ ̶n̶o̶t̶ ̶d̶e̶a̶d̶,̶ ̶I̶'̶v̶e̶ ̶j̶u̶s̶t̶ ̶b̶e̶e̶n̶ ̶b̶u̶s̶y̶.̶ ̶(̶I̶ ̶h̶a̶v̶e̶n̶'̶t̶ ̶b̶e̶e̶n̶ ̶c̶o̶m̶m̶i̶t̶t̶i̶n̶g̶ ̶a̶s̶ ̶m̶u̶c̶h̶ ̶a̶s̶ ̶I̶'̶d̶ ̶l̶i̶k̶e̶,̶ ̶b̶u̶t̶ ̶I̶'̶m̶ ̶b̶u̶s̶y̶ ̶w̶i̶t̶h̶ ̶o̶t̶h̶e̶r̶ ̶t̶h̶i̶n̶g̶s̶/̶t̶a̶s̶k̶s̶.̶ ̶A̶n̶d̶ ̶m̶i̶n̶d̶ ̶y̶o̶u̶,̶ ̶I̶ ̶c̶o̶d̶e̶ ̶f̶o̶r̶ ̶f̶r̶e̶e̶,̶ ̶I̶'̶m̶ ̶n̶o̶t̶ ̶g̶e̶t̶t̶i̶n̶g̶ ̶p̶a̶i̶d̶ ̶t̶o̶ ̶d̶o̶ ̶a̶n̶y̶ ̶o̶f̶ ̶t̶h̶e̶ ̶t̶h̶i̶n̶g̶s̶ ̶t̶h̶a̶t̶ ̶I̶ ̶d̶o̶.̶)̶
- 
- I'm done working on the engine, it's dead.
 
 This is a WIP rewrite of Ninjamuffin99s Friday night Funkin.
 
@@ -15,7 +11,12 @@ This is a WIP rewrite of Ninjamuffin99s Friday night Funkin.
 Join our [Discord Server](https://discord.gg/vS2rY5VaMV) for more questions and updates.
 Also if you make a mod with this engine, please credit all the people who worked here, and also **open source** your mods too you goons.
 
-### Special Credits:
+### Memehoovy Engine ReVisted
+  - [LeviXD](https://github.com/LEVIXDDLMAO) - Main Programmer, HTML5 Handler, BugFixes.
+
+
+
+### OG Memehoovy Engine
 - [MemeHoovy](https://github.com/MemeHoovy) - Main Programmer
 
 - [504brandon](https://github.com/504brandon) - Assistant Programmer. (And shit I took from Dike/Lite engine lol.)
@@ -38,12 +39,18 @@ Also if you make a mod with this engine, please credit all the people who worked
 
 - [Stilic](https://github.com/Stilic) - Polymod Fix, Extra Inspiration & Flaty Engine code, and in general, an cool person (Ily stilic, platonically).
 
-Original repo: https://github.com/MemeHoovy/FNF-MemeHoovy-Engine-Public-Legacy
+Old Memehoovy Engine: https://github.com/MemeHoovy/FNF-MemeHoovy-Engine-Public-Legacy
+
+OG Memehoovy Engine: https://github.com/Hoovy-Team/FNF-MemeHoovy-Engine-New
+
 
 Also check out:
 - [Chocolate Engine](https://github.com/Joalor64GH/Chocolate-Engine)
 - [Lite Funkin Engine](https://github.com/504brandon/lite-funkin-engine)
 - [Test-Engine](https://github.com/504brandon/Test-Engine-V1---FNF)
+- [Infinity Engine](https://github.com/LEVIXDDLMAO/FNF-Infinity-Engine)
+- [CodeDev Engine](https://github.com/LEVIXDDLMAO/FNF-CodeDev-Engine)
+- [Swag Engine]https://github.com/LEVIXDDLMAO/FNF-SwagEngine-Reborn)
 
 # Original FNF description:
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
